@@ -1,0 +1,591 @@
+.chapka{
+	background: #120E0E;
+
+}
+.container{
+	max-width: 1500px;
+	margin: 0 auto;
+}
+.container_header{
+	justify-content: space-between;
+}
+.vocoloid{
+	color: #0038FF;
+	font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 116px;
+align-items: center;
+display: flex;
+margin: 0 auto;
+max-width: 400px;
+}
+.nav{
+	margin: 0 auto;
+}
+.nav_list{
+	display: flex;
+	margin: 0 auto;
+	max-width: 640px;
+}
+.nav_item{
+	margin-right: 40px;
+}
+.nav_link{
+	text-decoration: none;
+}
+.nav_link1{
+	font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+display: flex;
+align-items: center;
+
+color: #FAFF00;
+}
+.nav_link2{
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+}
+.main{
+
+}
+
+
+
+
+
+/* home 2-й раздел сайта*/
+
+.main{
+	background: #120E0E;
+}
+
+.home{
+	background: #120E0E;
+}
+.img_vocoloid{
+	width: 470px;
+height: 271px;
+left: 1014px;
+top: 248px;
+
+}
+.container_home{
+	max-width: 470px;
+	margin: 0 auto;
+
+
+}
+.text_pri{
+	position: relative;
+width: 941px;
+height: 438px;
+left: -200px;
+top: -20px;
+
+}
+.text1{
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+
+color: #FFE600;
+
+}
+.text2{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+
+color: #F392AD;
+
+}
+.text3{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+
+color: #1F9A7E;
+
+}
+.text4{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+align-items: center;
+
+color: #FC000F;
+}
+.text5{
+	font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+
+color: #0FB6FF;
+
+}
+/*  3-й раздел сайта*/
+
+
+/* Мику */
+
+
+.about{
+	background: #120E0E;
+
+}
+.about__h2{
+	color: #30D3D3;
+	text-align: center;
+	font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+display: flex;
+align-items: center;
+
+
+
+
+}
+.Miku{
+
+	
+
+
+
+
+}
+.skills{
+	color: #0047FF;
+
+	
+
+
+
+}
+.text_Miku{
+	max-width: 938px;
+	font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+display: flex;
+align-items: center;z
+
+
+}
+.popular{
+	display: flex;
+}
+
+
+
+.progars_bar{
+	width: 291px;
+height: 59px;
+	background: linear-gradient(260.77deg, #FF5C00 16.97%, #00F0FF 16.97%);
+border: 1px solid #000000;
+
+}
+.about_container{
+	display: flex;
+}
+/* Мейко */
+.about_2{
+	background: #120E0E;
+
+}
+.about__h22{
+	color: red;
+	text-align: center;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+display: flex;
+align-items: center;
+
+	
+
+
+
+
+	
+
+
+}
+.about__top2{
+	display: flex;
+}
+.skills2{
+	font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+align-items: center;
+	color: #BF2828 ;
+	max-width: 833px;
+	
+
+
+
+
+}
+.Meiko{
+	color: red;
+
+
+
+
+}
+.popular2{
+	display: flex;
+}
+.progars_bar2{
+	width: 312px;
+height: 58px;
+
+background: linear-gradient(260.99deg, #200808 52.96%, #FF0000 56.07%);
+
+}
+
+
+/* Рин и Лен */
+
+.about__h3{
+	text-align: center;
+	font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+
+
+
+
+
+color:  #FAFF00 
+}
+.rin_container{
+	display: flex;
+	justify-content: space-between;
+}
+
+.Kagamine_Rin_Len{
+
+
+	
+
+	
+
+
+}
+.rin_len_text{
+	display: flex;
+}
+.Rin{
+	max-width: 388px;
+	font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+display: flex;
+align-items: center;
+
+
+color: #FFC700;
+}
+
+.len{
+max-width: 524px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+display: flex;
+align-items: center;
+
+color: #FFA800;
+}
+.text6{
+	font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+display: flex;
+align-items: center;
+	
+max-width:  1316px;
+
+color: #DCB85B;
+}
+.popular3{
+	
+
+
+color: #FFFFFF;
+
+}
+.progars_bar3{
+	
+width: 324px;
+height: 62px;
+
+
+background: linear-gradient(85.43deg, rgba(219, 255, 0, 0.99) 68.34%, #00FFFF 73.2%);
+}
+.progars_bar_4{
+	
+width: 324px;
+height: 62px;
+
+
+
+background: linear-gradient(85.43deg, rgba(219, 255, 0, 0.99) 68.34%, #00FFFF 74.2%);
+}
+.popular4{
+	color: #FFFFFF;
+	
+
+
+}
+/* luka */
+.Megurine_Luka{
+	
+
+
+}
+.about__h4{
+	text-align: center;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+display: flex;
+align-items: center;
+
+
+
+color: #AF329B;
+}
+.Luka_div{
+	display: flex;
+}
+.luka{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+display: flex;
+align-items: center;
+
+
+color: #B53BA9;
+}
+
+.popular5{
+
+color: #FFFFFF;
+
+}
+.progars_bar5{
+	width: 297px;
+height: 52px;
+
+
+background: linear-gradient(87.38deg, #F705DE 17.42%, #280A25 22.48%)
+}
+/* kaito*/
+
+.about_5{
+	background:  #120E0E;
+	margin: 0 auto;
+}
+
+.about__h5{
+	text-align: center;
+	font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 116px;
+
+align-items: center;
+
+
+color: #0047FF;
+}
+.Kaito{
+	
+
+}
+.kaito_a{
+	display: flex;
+}
+.Kaito_text{
+	font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+align-items: center;
+	
+   max-width: 708px;
+
+
+
+color: #6E8EBE;
+
+}
+.progars_bar6{
+width: 297px;
+height: 52px;
+
+
+
+
+background: linear-gradient(83.57deg, #2400FF 72%, #FFFFFF 72.01%);
+
+
+}
+.popular6{
+	;
+
+color: #FFFFFF;
+}
+
+/* 4-й раздел видео*/
+
+
+.video{
+	background: #120E0E;
+	
+}
+.mirar_video{
+	color: #FFFFFF;
+text-align: center;
+
+
+}
+	.video_txt{
+		color: #0047FF;
+		text-align: center;
+
+
+	}
+	/* 5-й раздел галерея */
+	.gallary{
+
+	}
+	.container_gallary{
+
+	}
+	.text_g{
+		font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 116px;
+
+margin-bottom: 0 auto;
+text-align: center;
+
+
+color: #FF0000;
+
+
+	}
+	.gallary_list{
+display: flex;
+flex-wrap: wrap;
+list-style: none;
+margin-bottom: 0;
+
+
+
+	}
+	.img_1{
+width: 33%;
+text-align: center;
+
+	}
+	.img_2{
+text-align: center;
+margin: 0 auto;
+width: auto;
+	}
+	.lightzoom{
+
+	}
+	.img_3{
+		width: 100%;
+	}
+	/* footer */
+
+	.footer{
+		display: flex;
+		background: #120E0E;
+		justify-content: space-between;
+
+
+
+	}
+
+
+
+
+
+
+
+
+
+
