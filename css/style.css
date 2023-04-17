@@ -59,6 +59,12 @@ align-items: center;
 color: #FFFFFF;
 
 }
+.nav_item:hover{
+	color: red;
+}
+.nav_link:hover{
+	color: #30D3D3;
+}
 .main{
 
 }
