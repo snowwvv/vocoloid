@@ -598,7 +598,6 @@ width: auto;
 		justify-content: space-between;
 
 
-
 	}
 /*адаптивная верска для планшета.*/
 @media (max-width: 834px) {
@@ -624,7 +623,7 @@ width: auto;
 	display: flex;
 }
 .nav_link{ 
-	font-size: 20px;
+	font-size: 18px;
 
 }
 .img_vocoloid{
@@ -770,7 +769,7 @@ margin-bottom: 0;
 
 	}
 	.img_1{
-width: 90%;
+width: 60%;
 text-align: center;
 
 	}
@@ -785,6 +784,8 @@ width: auto;
 	.img_3{
 		width: 100%;
 	}
+
+
 
 
 
