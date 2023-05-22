@@ -1,3 +1,5 @@
+
+
 .chapka{
 	background: #120E0E;
 
@@ -8,6 +10,7 @@
 }
 .container_header{
 	justify-content: space-between;
+
 }
 .vocoloid{
 	color: #0038FF;
@@ -31,6 +34,7 @@ max-width: 400px;
 }
 .nav_item{
 	margin-right: 40px;
+
 }
 .nav_link{
 	text-decoration: none;
@@ -65,6 +69,17 @@ color: #FFFFFF;
 .nav_link:hover{
 	color: #30D3D3;
 }
+
+.burger{
+	background-color: transparent;
+	border: none;
+	display: none;
+}
+
+
+
+
+
 .main{
 
 }
@@ -585,6 +600,212 @@ width: auto;
 
 
 	}
+/*адаптивная верска для планшета.*/
+@media (max-width: 834px) {
+ .burger{
+ 	display: block;
+}
+.nav{
+	display: none;
+}
+
+.burger_line{
+	width: 80px;
+	height: 10px;
+	margin-bottom: 10px;
+	display: flex;
+	margin-right:0;
+	margin-left: auto;
+}
+.container{
+	max-width: 630px ;
+}
+.container_header{
+	display: flex;
+}
+.nav_link{ 
+	font-size: 20px;
+
+}
+.img_vocoloid{
+	margin: 0 auto;
+	display: block;
+}
+.text_pri{
+	max-width: 630px;
+	margin: 0 auto;
+	display: block;
+	left: auto;
+	top: auto;
+}
+/* мику планшет */
+.about__h2{
+	font-size: 25px;
+}
+.Miku{
+	width: 172px;
+height: 215px;
+}
+.text_Miku{
+	font-size: 15px;
+	line-height: 20px;
+
+}
+.about2{
+	padding: 50px;
+
+}
+.skills{
+	padding: 50px;
+
+}
+.progars_bar{
+	width: 119px;
+height: 34px;
+
+}
+.planchet{
+	display: flex;
+	align-items: center;
+}
+/* мейко планшет */
+.about__h22{
+	font-size: 25px;
+
+}
+.Meiko{
+	width: 161px;
+height: 218px;
+}
+.Meiko_text{
+	font-size: 15px;
+	line-height: 20px;
+}
+.planchet_meiko_2{
+	display: flex;
+
+}
+.progars_bar2{
+	width: 119px;
+height: 34px;
+}
+.planchet_meiko{
+	display: flex;
+	align-items: center;
+}
+/* рин и лен планшет */
+
+.about__h3{
+	font-size: 25px ;
+}
+.progars_bar3{
+	width: 141px;
+height: 27px;
+}
+.progars_bar_4{
+	width: 141px;
+height: 27px;
+}
+.Rin{
+	font-size: 15px;
+line-height: 20px;
+}
+.len{
+	font-size: 15px;
+	line-height: 20px;
+}
+.text6{
+	font-size: 15px;
+	line-height: 20px;
+}
+.Kagamine_Rin_Len{
+	width: 166px;
+height: 313px;
+}
+ 
+/* лука планшет */
+.about__h4{
+	font-size: 25px;
+}
+.Megurine_Luka{
+	width: 202px;
+height: 296px;
+}
+.luka{
+	font-size: 15px;
+line-height: 20px;  
+}
+.progars_bar5{
+		width: 119px;
+height: 34px;
+}
+/* каито планшет */
+.about__h5{
+	font-size: 25px;
+}
+.Kaito{
+	width: 156px;
+height: 221px;
+}
+.Kaito_text{
+	font-size: 15px;
+line-height: 20px;  
+}
+.progars_bar6{
+		width: 119px;
+height: 34px;
+}
+
+/* галерия планшет */
+.text_g{
+	font-size: 40px;
+}
+.gallary_list{
+display: flex;
+flex-wrap: wrap;
+list-style: none;
+margin-bottom: 0;
+
+
+
+	}
+	.img_1{
+width: 90%;
+text-align: center;
+
+	}
+	.img_2{
+text-align: center;
+margin: 0 auto;
+width: auto;
+	}
+	.lightzoom{
+
+	}
+	.img_3{
+		width: 100%;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
 
 
 
