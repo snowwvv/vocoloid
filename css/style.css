@@ -70,9 +70,23 @@ color: #FFFFFF;
 	color: #30D3D3;
 }
 
+.burger{
+	background-color: transparent;
+	border: none;
+	display: none;
+}
+
+
+
+
+
 .main{
 
 }
+
+
+
+
 
 /* home 2-й раздел сайта*/
 
