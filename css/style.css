@@ -754,6 +754,13 @@ line-height: 20px;
 		width: 119px;
 height: 34px;
 }
+.video2{
+	max-width: 500px;
+	max-height: 300px;
+     margin: 0 auto;
+     display: block;
+}
+
 
 /* галерия планшет */
 .text_g{
@@ -769,8 +776,9 @@ margin-bottom: 0;
 
 	}
 	.img_1{
-width: 60%;
-text-align: center;
+width: 100%;
+
+
 
 	}
 	.img_2{
@@ -782,35 +790,56 @@ width: auto;
 
 	}
 	.img_3{
-		width: 100%;
+		
+	}
+.footer{
+		display: flex;
+		background: #120E0E;
+		justify-content: space-between;
 	}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	.tg{
+		max-width: 100px;
+max-height: 100px;
+	}
+.vk{
+		max-width: 100px;
+max-height: 100px;
+	}
 
 
 }
 
+@media (max-width: 450px ) {
+	.container{
+		max-width: 360px;
+	}
+
+.vocoloid{
+	font-size: 70px;
+}
+.img_vocoloid{
+	width: 220px;
+height: 127px;
+}
+.text_pri{
+	max-width: 360px;
+	font-size: 14px;
+	padding-bottom: auto;
+}
+.about_container{
+	flex-direction: column;
+}
+.about2{
+	margin-top: 330px;
+}
+.text_miku{
+	max-width: 300px;
+}
 
 
 
-
-
+}
 
 
 
