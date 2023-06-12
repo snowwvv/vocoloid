@@ -1,7 +1,7 @@
 
 
 .chapka{
-	background: #120E0E;
+	
 
 }
 .container{
@@ -91,11 +91,11 @@ color: #FFFFFF;
 /* home 2-й раздел сайта*/
 
 .main{
-	background: #120E0E;
+
 }
 
 .home{
-	background: #120E0E;
+
 }
 .img_vocoloid{
 	width: 470px;
@@ -186,7 +186,7 @@ color: #0FB6FF;
 
 
 .about{
-	background: #120E0E;
+	
 
 }
 .about__h2{
@@ -250,7 +250,7 @@ border: 1px solid #000000;
 }
 /* Мейко */
 .about_2{
-	background: #120E0E;
+	
 
 }
 .about__h22{
@@ -327,6 +327,7 @@ line-height: 58px;
 
 
 
+
 color:  #FAFF00 
 }
 .rin_container{
@@ -335,6 +336,7 @@ color:  #FAFF00
 }
 
 .Kagamine_Rin_Len{
+
 
 
 	
@@ -467,7 +469,7 @@ background: linear-gradient(87.38deg, #F705DE 17.42%, #280A25 22.48%)
 /* kaito*/
 
 .about_5{
-	background:  #120E0E;
+
 	margin: 0 auto;
 }
 
@@ -524,66 +526,7 @@ background: linear-gradient(83.57deg, #2400FF 72%, #FFFFFF 72.01%);
 color: #FFFFFF;
 }
 
-/* 4-й раздел видео*/
 
-
-.video{
-	background: #120E0E;
-	
-}
-.mirar_video{
-	color: #FFFFFF;
-text-align: center;
-
-
-}
-	.video_txt{
-		color: #0047FF;
-		text-align: center;
-
-
-	}
-	/* 5-й раздел галерея */
-	.gallary{
-
-	}
-	.container_gallary{
-
-	}
-	.text_g{
-		font-family: 'Inter';
-font-style: normal;
-font-weight: 400;
-font-size: 96px;
-line-height: 116px;
-
-margin-bottom: 0 auto;
-text-align: center;
-
-
-color: #FF0000;
-
-
-	}
-	.gallary_list{
-display: flex;
-flex-wrap: wrap;
-list-style: none;
-margin-bottom: 0;
-
-
-
-	}
-	.img_1{
-width: 33%;
-text-align: center;
-
-	}
-	.img_2{
-text-align: center;
-margin: 0 auto;
-width: auto;
-	}
 	.lightzoom{
 
 	}
@@ -594,7 +537,7 @@ width: auto;
 
 	.footer{
 		display: flex;
-		background: #120E0E;
+	
 		justify-content: space-between;
 
 
@@ -621,6 +564,8 @@ width: auto;
 }
 .container_header{
 	display: flex;
+	 
+
 }
 .nav_link{ 
 	font-size: 18px;
@@ -794,7 +739,7 @@ width: auto;
 	}
 .footer{
 		display: flex;
-		background: #120E0E;
+		background-image: url(https://sun9-22.userapi.com/impg/FZfZ6IZoONqIZb9EjMiQaCeYSIenL1p5ko0tgg/vVZqC4rWH8I.jpg?size=576x807&quality=95&sign=6b412d3d9eee763f524cc41b4c840e4e&c_uniq_tag=nOzLVMKs8lwo1KH073x0oauZBcrE7FWoqMmwdOt4-j4&type=album);
 		justify-content: space-between;
 	}
 
@@ -822,24 +767,137 @@ max-height: 100px;
 	width: 220px;
 height: 127px;
 }
-.text_pri{
+.text_pri{ 
 	max-width: 360px;
 	font-size: 14px;
+	 line-height: 15px;
 	padding-bottom: auto;
 }
 .about_container{
-	flex-direction: column;
+	
 }
 .about2{
 	margin-top: 330px;
 }
-.text_miku{
-	max-width: 300px;
-}
-
-
+/* Мику*/
+.skills{
 
 }
+.Miku{
+	width: 120px;
+height: 127px;
+}
+.text_Miku {
+	max-width: 360px;
+	font-size: 14px;
+	padding-bottom: auto;
+	font-size: 10px;
+    line-height: 15px;
+    margin-bottom: 90px;
+    margin-right: 20px;
+}
+.progars_bar{
+	width: 100px;
+height: 25px;
+margin-top: -155px;
+}
+.popular{
+	margin-top: -90px;
+}
+/* Мейко */
+.Meiko {
+	width: 110px;
+height: 127px;
+}
+.Meiko_text{
+		max-width: 360px;
+	font-size: 14px;
+	padding-bottom: auto;
+	font-size: 10px;
+    line-height: 15px;
+    margin-top: 70px;
+}
+.progars_bar2{
+		width: 100px;
+height: 25px;
+margin-top: -20px;
+}
+.popular2{
+	margin-top: -5px;
+	font-size: 20px;
+}
+/* кагамине рин и лен */
+.Kagamine_Rin_Len{
+		width: 220px;
+height: 127px;
+
+}
+.Rin{
+	max-width: 360px;
+	font-size: 14px;
+	padding-bottom: auto;
+	font-size: 10px;
+    line-height: 15px;
+    margin-bottom: 90px;
+}
+.len{
+	max-width: 360px;
+	font-size: 14px;
+	padding-bottom: auto;
+	font-size: 10px;
+    line-height: 15px;
+    margin-bottom: 90px;
+}
+.text6{
+	max-width: 360px;
+	font-size: 14px;
+	padding-bottom: auto;
+	font-size: 10px;
+    line-height: 15px;
+   margin-top: -70px;
+}
+/* лука */
+.Megurine_Luka{
+	width: 120px;
+height: 127px;
+}
+.luka{
+	margin-top: -30px;
+}
+.progars_bar5 {
+	width: 100px;
+height: 25px;
+}
+/* кайто*/
+.Kaito{
+	margin-top: -50px;
+}
+.Kaito_text{
+	margin-top: -40px;
+}
+.progars_bar6 {
+	width: 100px;
+height: 25px;
+}
+.footer{
+		display: flex;
+		background-image: url(https://sun9-22.userapi.com/impg/FZfZ6IZoONqIZb9EjMiQaCeYSIenL1p5ko0tgg/vVZqC4rWH8I.jpg?size=576x807&quality=95&sign=6b412d3d9eee763f524cc41b4c840e4e&c_uniq_tag=nOzLVMKs8lwo1KH073x0oauZBcrE7FWoqMmwdOt4-j4&type=album);
+
+		justify-content: space-between;
+	}
+
+	
+
+
+
+}
+/* фон */
+.fon{
+	 
+ background-image: url(https://sun9-22.userapi.com/impg/FZfZ6IZoONqIZb9EjMiQaCeYSIenL1p5ko0tgg/vVZqC4rWH8I.jpg?size=576x807&quality=95&sign=6b412d3d9eee763f524cc41b4c840e4e&c_uniq_tag=nOzLVMKs8lwo1KH073x0oauZBcrE7FWoqMmwdOt4-j4&type=album);
+
+}
+
 
 
 
