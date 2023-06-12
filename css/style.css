@@ -203,6 +203,7 @@ align-items: center;
 
 
 
+
 }
 .Miku{
 
@@ -221,14 +222,14 @@ align-items: center;
 
 }
 .text_Miku{
-	max-width: 938px;
+	max-width: 800px;
 	font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
 font-size: 32px;
 line-height: 39px;
 display: flex;
-align-items: center;z
+align-items: center;
 
 
 }
@@ -246,7 +247,7 @@ border: 1px solid #000000;
 
 }
 .about_container{
-	display: flex;
+	
 }
 /* Мейко */
 .about_2{
@@ -757,7 +758,31 @@ max-height: 100px;
 
 @media (max-width: 450px ) {
 	.container{
-		max-width: 360px;
+
+				max-width: 360px;
+	}
+	.burger{
+ 	display: block;
+}
+.nav{
+	display: none;
+}
+	.nav_link{
+		font-size: 15px;
+	}	.text1{
+font-size: 14px;
+	}
+	.text2{
+font-size: 14px;
+	}
+	.text3{
+font-size: 14px;
+	}
+	.text4{
+font-size: 14px;
+	}
+	.text5{
+font-size: 14px;
 	}
 
 .vocoloid{
@@ -773,9 +798,7 @@ height: 127px;
 	 line-height: 15px;
 	padding-bottom: auto;
 }
-.about_container{
-	
-}
+
 .about2{
 	margin-top: 330px;
 }
@@ -789,7 +812,7 @@ height: 127px;
 
 }
 .about__top{
-	margin: o auto;
+	margin: 0 auto;
 }
 .about__h2{
 	font-size: 15px;
@@ -798,21 +821,19 @@ height: 127px;
 .text_Miku {
 	max-width: 360px;
 	font-size: 14px;
-	
 	font-size: 9px;
-    line-height: 15px;
-    margin-bottom: 70px;
+	display: flex;
+   
   
 }
 .progars_bar{
 	width: 60px;
 height: 25px;
-margin-top: -100px;
+
 
 
 }
 .popular{
-	margin-top: -60px;
 }
 /* Мейко */
 .Meiko {
