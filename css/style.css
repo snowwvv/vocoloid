@@ -247,7 +247,7 @@ border: 1px solid #000000;
 
 }
 .about_container{
-	
+	display: flex;
 }
 /* Мейко */
 .about_2{
@@ -809,20 +809,28 @@ height: 127px;
 .Miku{
 	width: 120px;
 height: 127px;
+align-items: center;
+margin-left: 60px;
+  position: absolute;
+top: 1075px;
 
 }
 .about__top{
-	margin: 0 auto;
+	margin-right:  150px;
 }
 .about__h2{
 	font-size: 15px;
+	
+
 	
 }
 .text_Miku {
 	max-width: 360px;
 	font-size: 14px;
-	font-size: 9px;
-	display: flex;
+	font-size: 13px;
+	text-align: center;
+	margin-bottom: 20px;
+     
    
   
 }
@@ -834,6 +842,9 @@ height: 25px;
 
 }
 .popular{
+}
+.about_container{
+	display: block;
 }
 /* Мейко */
 .Meiko {
