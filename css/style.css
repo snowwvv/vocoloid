@@ -157,7 +157,7 @@ font-family: 'Crimson Text';
 
 }
 
-/*  3-й раздел сайта*/
+
 
 
 
@@ -170,6 +170,8 @@ font-family: 'Crimson Text';
 
 
 	}
+	/* фон */
+
 /*адаптивная верска для планшета.*/
 @media (max-width: 834px) {
  .burger{
@@ -200,140 +202,18 @@ font-family: 'Crimson Text';
 
 }
 .img_vocoloid{
-	margin: 0 auto;
-	display: block;
+	width: 400px;
+height: 120px;
 }
 .text_pri{
 	max-width: 630px;
 	margin: 0 auto;
 	display: block;
-	height: 3730px;
+	height: 3790px;
 	left: auto;
 	top: auto;
 }
-/* мику планшет */
-.about__h2{
-	font-size: 25px;
-}
-.Miku{
-	width: 172px;
-height: 215px;
-}
-.text_Miku{
-	font-size: 15px;
-	line-height: 20px;
 
-}
-.about2{
-	padding: 50px;
-
-}
-.skills{
-	padding: 50px;
-
-}
-.progars_bar{
-	width: 119px;
-height: 34px;
-
-}
-.planchet{
-	display: flex;
-	align-items: center;
-}
-/* мейко планшет */
-.about__h22{
-	font-size: 25px;
-
-}
-.Meiko{
-	width: 161px;
-height: 218px;
-}
-.Meiko_text{
-	font-size: 15px;
-	line-height: 20px;
-}
-.planchet_meiko_2{
-	display: flex;
-
-}
-.progars_bar2{
-	width: 119px;
-height: 34px;
-}
-.planchet_meiko{
-	display: flex;
-	align-items: center;
-}
-/* рин и лен планшет */
-
-.about__h3{
-	font-size: 25px ;
-}
-.progars_bar3{
-	width: 141px;
-height: 27px;
-}
-.progars_bar_4{
-	width: 141px;
-height: 27px;
-}
-.Rin{
-	font-size: 15px;
-line-height: 20px;
-}
-.len{
-	font-size: 15px;
-	line-height: 20px;
-}
-.text6{
-	font-size: 15px;
-	line-height: 20px;
-}
-.Kagamine_Rin_Len{
-	width: 166px;
-height: 313px;
-}
- 
-/* лука планшет */
-.about__h4{
-	font-size: 25px;
-}
-.Megurine_Luka{
-	width: 202px;
-height: 296px;
-}
-.luka{
-	font-size: 15px;
-line-height: 20px;  
-}
-.progars_bar5{
-		width: 119px;
-height: 34px;
-}
-/* каито планшет */
-.about__h5{
-	font-size: 25px;
-}
-.Kaito{
-	width: 156px;
-height: 221px;
-}
-.Kaito_text{
-	font-size: 15px;
-line-height: 20px;  
-}
-.progars_bar6{
-		width: 119px;
-height: 34px;
-}
-.video2{
-	max-width: 500px;
-	max-height: 300px;
-     margin: 0 auto;
-     display: block;
-}
 
 
 /* галерия планшет */
@@ -368,18 +248,11 @@ width: auto;
 	}
 .footer{
 		display: flex;
-		background-image: url(https://sun9-22.userapi.com/impg/FZfZ6IZoONqIZb9EjMiQaCeYSIenL1p5ko0tgg/vVZqC4rWH8I.jpg?size=576x807&quality=95&sign=6b412d3d9eee763f524cc41b4c840e4e&c_uniq_tag=nOzLVMKs8lwo1KH073x0oauZBcrE7FWoqMmwdOt4-j4&type=album);
+		
 		justify-content: space-between;
 	}
 
-	.tg{
-		max-width: 100px;
-max-height: 100px;
-	}
-.vk{
-		max-width: 100px;
-max-height: 100px;
-	}
+	
 
 
 }
@@ -427,147 +300,22 @@ height: 127px;
 	padding-bottom: auto;
 }
 
-.about2{
-	margin-top: 330px;
-}
-/* Мику*/
-.skills{
-
-}
-.Miku{
-	width: 120px;
-height: 127px;
-align-items: center;
-margin-left: 60px;
-  position: absolute;
-top: 1075px;
-
-}
-.about__top{
-	margin-right:  150px;
-}
-.about__h2{
-	font-size: 15px;
-	
-
-	
-}
-.text_Miku {
-	max-width: 360px;
-	font-size: 14px;
-	font-size: 13px;
-	text-align: center;
-	margin-bottom: 20px;
-     
-   
-  
-}
-.progars_bar{
-	width: 60px;
-height: 25px;
 
 
 
-}
-.popular{
-}
-.about_container{
-	display: block;
-}
-/* Мейко */
-.Meiko {
-	width: 110px;
-height: 127px;
-}
-.Meiko_text{
-		max-width: 360px;
-	font-size: 14px;
-	padding-bottom: auto;
-	font-size: 10px;
-    line-height: 15px;
-    margin-top: 70px;
-}
-.progars_bar2{
-		width: 70px;
-height: 20px;
-margin-top: -10px;
-}
-.popular2{
-	margin-top: -5px;
-	font-size: 20px;
-}
-/* кагамине рин и лен */
-.Kagamine_Rin_Len{
-		width: 220px;
-height: 127px;
-
-}
-.Rin{
-	max-width: 360px;
-	font-size: 14px;
-	padding-bottom: auto;
-	font-size: 10px;
-    line-height: 15px;
-    margin-bottom: 90px;
-}
-.len{
-	max-width: 360px;
-	font-size: 14px;
-	padding-bottom: auto;
-	font-size: 10px;
-    line-height: 15px;
-    margin-bottom: 90px;
-}
-.text6{
-	max-width: 360px;
-	font-size: 14px;
-	padding-bottom: auto;
-	font-size: 10px;
-    line-height: 15px;
-   margin-top: -70px;
-}
-/* лука */
-.Megurine_Luka{
-	width: 120px;
-height: 127px;
-}
-.luka{
-	margin-top: -30px;
-}
-.progars_bar5 {
-	width: 100px;
-height: 25px;
-}
-/* кайто*/
-.Kaito{
-	margin-top: -50px;
-}
-.Kaito_text{
-	margin-top: -40px;
-}
-.progars_bar6 {
-	width: 100px;
-height: 25px;
-}
 .footer{
 		display: flex;
 		background-image: url(https://sun9-22.userapi.com/impg/FZfZ6IZoONqIZb9EjMiQaCeYSIenL1p5ko0tgg/vVZqC4rWH8I.jpg?size=576x807&quality=95&sign=6b412d3d9eee763f524cc41b4c840e4e&c_uniq_tag=nOzLVMKs8lwo1KH073x0oauZBcrE7FWoqMmwdOt4-j4&type=album);
 
 		justify-content: space-between;
 	}
+ }
 
-	
-
-
-
-}
-/* фон */
 .fon{
 	 
  background-image: url(https://sun9-36.userapi.com/impg/zS6j2zwAa5wfIY4OfW_obh84qPh05XEHB0xABw/IkE0DLSWJns.jpg?size=807x481&quality=95&sign=17144fd9b7f51c299e30f5428b37783f&c_uniq_tag=UvXbylOKDCG7gODy5yw6ZN5vX0ZUu_hwfSgVeQBaEjk&type=album);
 
 }
-
 
 
 
