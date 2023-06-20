@@ -2,5 +2,12 @@
 	background-image: url(https://sun9-22.userapi.com/impg/FZfZ6IZoONqIZb9EjMiQaCeYSIenL1p5ko0tgg/vVZqC4rWH8I.jpg?size=576x807&quality=95&sign=6b412d3d9eee763f524cc41b4c840e4e&c_uniq_tag=nOzLVMKs8lwo1KH073x0oauZBcrE7FWoqMmwdOt4-j4&type=album);
 }
 .music{
-	background-image: url(https://sun9-22.userapi.com/impg/FZfZ6IZoONqIZb9EjMiQaCeYSIenL1p5ko0tgg/vVZqC4rWH8I.jpg?size=576x807&quality=95&sign=6b412d3d9eee763f524cc41b4c840e4e&c_uniq_tag=nOzLVMKs8lwo1KH073x0oauZBcrE7FWoqMmwdOt4-j4&type=album);
+	display: flex;
+	margin: 0 auto;
+}
+.text_music{
+	color: red;
+	font-size: 25px;
+	
+	text-align: center;
 }
