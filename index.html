@@ -45,10 +45,21 @@
 
 
 </header>
+
 <main class="main">
 	<section class="home">
+					<div class="music_pleer">
+<audio class="music" id="audio" src="music/1.mp3" onclick="switchTreck()"></audio>
+	<div id="controls">
+    	<div class="audio-track"><div class="time"></div></div>
+    	<button class="play">Play</button>
+    	<button class="pause">Pause</button>
+    	<button class="prev">&#60;prev</button>
+    	<button class="next">next&#62;</button>
+	</div>
+</div>
 		<div class="container container_home">
-			
+
 
        		<h4  class="text_pri">
        			<span class="text1">
@@ -106,10 +117,13 @@ Crypton Future Media выступает против создания аниме
 	
 </main>
 
+
+
 <script type="text/javascript">
  			jQuery('.lightzoom').lightzoom({speed: 400, viewTitle: true});
 		</script>
 </div>
 </div>
+<script src="scripts/main.js"></script>
 </body>
 </html>
