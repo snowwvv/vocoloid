@@ -23,11 +23,12 @@
 .container{
 	display: flex;
 	
+	
 	 background-image: url(https://sun9-36.userapi.com/impg/zS6j2zwAa5wfIY4OfW_obh84qPh05XEHB0xABw/IkE0DLSWJns.jpg?size=807x481&quality=95&sign=17144fd9b7f51c299e30f5428b37783f&c_uniq_tag=UvXbylOKDCG7gODy5yw6ZN5vX0ZUu_hwfSgVeQBaEjk&type=album);
 	
 }
 .container_header{
-	justify-content: space-between;
+	
 
 }
 .vocoloid{
@@ -301,8 +302,24 @@ height: 127px;
 	padding-bottom: auto;
 }
 }
-
-
+.audio-track {
+    width: 150px;
+    height: 3px;
+    background-color: #dddddd;
+    margin: 20px 0
+}
+ 
+.time {
+    width: 0;
+    height: 3px;
+    background-color: #474747
+}
+.music_pleer{
+	background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages3.alphacoders.com%2F138%2Fthumb-1920-138957.jpg&f=1&nofb=1&ipt=a15ebff456bc55c6b1c7f61c1d289a911d6e41ea36ed06034bc6dc2b398b89ae&ipo=images);
+	display: flex;
+	height: 100px;
+	justify-content: center;
+}
 
 
 
