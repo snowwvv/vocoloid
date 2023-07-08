@@ -1,325 +1,446 @@
-
-@font-face {
-	font-family: 'Crimson Text';
-	font-style: italic;
-	font-weight: normal;
-	src: local('Crimson Text'),
-		url('/fonts/CrimsonText-Italic.woff2') format('woff2'), 
-		url('/fonts/CrimsonText-Italic.woff') format('woff'),
-		url('/fonts/CrimsonText-Italic.ttf') format('ttf'),
-		url('/fonts/CrimsonText-Italic.eot') format('eot');
-}
-
-
-.chapka{
-	
-
-}
-.img_vocoloid{
-	display: flex;
-	margin: 0 auto;
-
-}
 .container{
-	display: flex;
-	
-	
-	 background-image: url(https://sun9-36.userapi.com/impg/zS6j2zwAa5wfIY4OfW_obh84qPh05XEHB0xABw/IkE0DLSWJns.jpg?size=807x481&quality=95&sign=17144fd9b7f51c299e30f5428b37783f&c_uniq_tag=UvXbylOKDCG7gODy5yw6ZN5vX0ZUu_hwfSgVeQBaEjk&type=album);
-	
+   max-width: 6000px;
 }
-.container_header{
-	
-
+.fon{
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdota-blog.ru%2Fwp-content%2Fuploads%2F2020%2F01%2Fosu-logo-game-images.jpg&f=1&nofb=1&ipt=44fd741a7310f4c570d3c75f8eefb7e478fe5d187f21c6e7c0016782d1eac2a5&ipo=images) ;
 }
-.vocoloid{
-	color: #0038FF;
-	font-family: 'Inter';
-font-style: normal;
-font-weight: 400;
-font-size: 96px;
-line-height: 116px;
-align-items: center;
-display: flex;
-margin: 0 auto;
-max-width: 400px;
-}
-.nav{
-margin-right: 150px;
-}
-.nav_list{
-	display: flex;
-	margin: 0 auto;
-	max-width: 640px;
+.text{
+    color: white;
+    font-size: 130px;
+    display: flex;
+    justify-content: center;
+   padding-top: 30px;
 }
 .nav_item{
-	margin-right: 40px;
-
+    height: 36px;
+    border: none;
+    background: 0 0;
+    box-shadow: inset 0 0 0 2px #343946;
+    border-radius: 18px;
+    color: white;
+    padding: 5px 20px;
+    
 }
-.nav_link{
-	text-decoration: none;
+.skin1{
+    color: blue;
+    font-size: 20px;
+    padding-left: 230px;
+    border-color:none;
+    border-width: 0px;
+    border-style: solid;
+    position: absolute;
+    float: left;
+    padding-top: 8px;
+    cursor: default;
+     
+    
+    
 }
-.nav_link1{
-	font-family: 'Inter';
-font-style: normal;
-font-weight: 400;
-font-size: 36px;
-line-height: 44px;
-display: flex;
-align-items: center;
-
-color: #FAFF00;
+.skin2{
+    color: yellowgreen;
+    padding-left: 795px;
+    font-size: 20px;
+    border-color:none;
+    border-width: 0px;
+    border-style: solid;
+    position: absolute;
+    float: left;
+    padding-top: 8px;
+    cursor: default;
+   
 }
-.nav_link2{
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 400;
-font-size: 36px;
-line-height: 44px;
-display: flex;
-align-items: center;
-
-color: red;
-
+.skin3{
+    color: blue;
+    font-size: 20px;
+    padding-left: 1520px;
+    border-color:none;
+    border-width: 0px;
+    border-style: solid;
+    position: absolute;
+    float: left;
+    padding-top: 8px;
+    cursor: default;
 }
-.nav_item:hover{
-	color: red;
+.imgRafis{
+    max-width: 30%;
+    padding-top: 30px;
+    margin-left: 40px;
+   
+    
+    background-color:  LightCoral;
 }
-.nav_link:hover{
-	color: #30D3D3;
+.skin_li{
+    display: inline-block;
 }
-
-.burger{
-	background-color: transparent;
-	border: none;
-	display: none;
+.imgs1nqq{
+    max-width: 30%;
+    padding-top: 30px;
+    margin-left: 40px;
+    background-color:  LightCoral;
 }
-
-.main{
-
+.img-Miku-{
+    max-width: 30%;
+    padding-top: 30px;
+    margin-left: 40px;
+    background-color:  LightCoral;
 }
+/* 2 раздел */
 
-
-
-
-
-/* home 2-й раздел сайта*/
-
-
-.text_pri{
-	align-items: center;
-	 margin-left: auto;
-    margin-right: auto;
-width: 941px;
-height: 2000px;
-left: -200px;
-top: -20px;
-	
-
+.imgshige{
+    max-width: 30%;
+  
+    padding-left: 40px;
 }
-.text1{
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 24px;
-display: flex;
-align-items: center;
-
-color: #FFE600;
-font-family: 'Crimson Text';
-	font-style: italic;
+.skin_li2{
+    display: inline-block;
 }
-.text2{
-font-family: 'Inter';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 24px;
-display: flex;
-align-items: center;
-
-color: #F392AD;
-font-family: 'Crimson Text';
-	font-style: italic;
+.skin4{
+    color: blue;
+    font-size: 20px;
+    padding-left: 220px;
+   
 }
-.text3{
-font-family: 'Inter';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 24px;
-display: flex;
-align-items: center;
-
-color: #1F9A7E;
-font-family: 'Crimson Text';
-	font-style: italic;
-
+.skin5{
+    color: blue;
+    font-size: 20px;
+    padding-left: 420px;
 }
-
-
-
-
-
-	/* footer */
-
-	.footer{
-		display: flex;
-	
-		justify-content: space-between;
-
-
-	}
-	/* фон */
-
-/*адаптивная верска для планшета.*/
-@media (max-width: 834px) {
- .burger{
- 	display: block;
+.imgVALKYRIE{
+    max-width: 30%;
+    padding-top: 20px;
+    padding-left: 40px;
+  
 }
-.nav{
-	display: none;
+.skin6{
+    color: blue;
+    font-size: 20px;
+    padding-left: 420px;
+}
+.imgWWWskinv{
+    max-width: 30%;
+    padding-top: 20px;
+    padding-left: 40px;
 }
 
-.burger_line{
-	width: 80px;
-	height: 10px;
-	margin-bottom: 10px;
-	display: flex;
-	margin-right:0;
-	margin-left: auto;
+/* скрывается для адаптации телефона*/
+.skin1_a{ display: none;}
+.skin2_a{ display: none;}
+.skin3_a{ display: none;}
+.skin4_a{ display: none;}
+.skin5_a{display: none;}
+.skin6_a{display: none;}
+
+
+/* спонсор*/
+.sponsor{
+    font-size: 50px;
+    color: white;
+    padding-left: 850px ;
 }
-.container{
-	
+.sponsor1{
+    font-size: 50px;
+    color: white;
+    position: absolute;
+    left: 500px;
 }
-.container_header{
-	display: flex;
-	 
-
+/* поиск*/
+.search{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    background: white;
+    border-radius: 60px;
+    transition: 0.5s;
+    box-shadow:0 0 0 5px #2573ef ;
+    overflow: hidden;
+     margin: 0 auto;
 }
-.nav_link{ 
-	font-size: 18px;
-
-}
-.img_vocoloid{
-	width: 400px;
-height: 120px;
-}
-.text_pri{
-	max-width: 630px;
-	margin: 0 auto;
-	display: block;
-	height: 3790px;
-	left: auto;
-	top: auto;
-}
-
-
-
-/* галерия планшет */
-.text_g{
-	font-size: 40px;
-}
-.gallary_list{
-display: flex;
-flex-wrap: wrap;
-list-style: none;
-margin-bottom: 0;
-
-
-
-	}
-	.img_1{
-width: 100%;
-
-
-
-	}
-	.img_2{
-text-align: center;
-margin: 0 auto;
-width: auto;
-	}
-	.lightzoom{
-
-	}
-	.img_3{
-		
-	}
-.footer{
-		display: flex;
-		
-		justify-content: space-between;
-	}
-
-	
-
+.search .icon{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 60px;
+    height: 60px;
+    background: white;
+    border-radius: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 995;
+    cursor: pointer;
 
 }
+.search .icon::before{
+    position: absolute;
+    content: '';
+    width: 15px;
+    height: 15px;
+    border: 3px solid #287dfc;
+    border-radius: 50%;
+    transform: translate(-2px, -2px);
+}
 
-@media (max-width: 450px ) {
-	.container{
+.search .icon::after{
+    position: absolute;
+    content: '';
+    width: 3px;
+    height: 12px;
+    background: #287dfc;
+    transform: translate(8px, 8px) rotate(-45deg);
+}
+.search.active{
+    width: 360px;
+}
 
-				max-width: 360px;
-	}
-	.burger{
- 	display: block;
+.search .input{
+    position: relative;
+    width: 300px;
+    height: 60px;
+    left: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
-.nav{
-	display: none;
+.search .input input {
+    position: absolute;
+    top: -10px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+    outline: 0;
+    font-size: 18px;
+    padding: 10px 0;
 }
-	.nav_link{
-		font-size: 15px;
-	}	.text1{
-font-size: 14px;
-	}
-	.text2{
-font-size: 14px;
-	}
-	.text3{
-font-size: 14px;
-	}
-	.text4{
-font-size: 14px;
-	}
-	.text5{
-font-size: 14px;
-	}
+.clear{
+    position: absolute;
+    top: 50%;
+    right: 15px;
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: translateY(-50%);
+}
+.clear::before{
+    position: absolute;
+    content: '';
+    width: 1px;
+    height: 15px;
+    background: #999;
+    transform: rotate(45deg);
 
-.vocoloid{
-	font-size: 70px;
 }
-.img_vocoloid{
-	width: 220px;
-height: 127px;
+.clear::after{
+    position: absolute;
+    content: '';
+    width: 1px;
+    height: 15px;
+    background: #999;
+    transform: rotate(-45deg);
+    
 }
-.text_pri{ 
-	max-width: 360px;
-	font-size: 14px;
-	 line-height: 15px;
-	padding-bottom: auto;
-}
-}
-.audio-track {
-    width: 150px;
-    height: 3px;
-    background-color: #dddddd;
-    margin: 20px 0
-}
- 
-.time {
-    width: 0;
-    height: 3px;
-    background-color: #474747
-}
-.music_pleer{
-	background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages3.alphacoders.com%2F138%2Fthumb-1920-138957.jpg&f=1&nofb=1&ipt=a15ebff456bc55c6b1c7f61c1d289a911d6e41ea36ed06034bc6dc2b398b89ae&ipo=images);
-	display: flex;
-	height: 100px;
-	justify-content: center;
+.tube .icon{
+    display: none;
 }
 
 
+
+
+
+
+/* футер*/
+footer{
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdota-blog.ru%2Fwp-content%2Fuploads%2F2020%2F01%2Fosu-logo-game-images.jpg&f=1&nofb=1&ipt=44fd741a7310f4c570d3c75f8eefb7e478fe5d187f21c6e7c0016782d1eac2a5&ipo=images) ;
+}
+/* адаптация */
+@media(max-width: 450px){
+    .text{
+        color: white;
+        font-size: 50px;
+        display: flex;
+        justify-content: center;
+       padding-top: 30px;
+    }
+    .nav_item{
+        height: 20px;
+        border: none;
+        background: 0 0;
+        box-shadow: inset 0 0 0 2px #343946;
+        border-radius: 18px;
+        color: white;
+        display: inline-block;
+        
+    }
+    
+         
+         
+         .skin4{display: none;}
+         .skin5{display: none;}
+         .skin6{display: none;}
+         .imgRafis{
+            max-width: 80%;   
+        }
+        .imgs1nqq{
+            max-width: 80%;    
+        }
+        .img-Miku-{
+            max-width: 80%; 
+        }
+        .imgshige{
+            max-width: 80%;  
+        }
+        .imgVALKYRIE{
+            max-width: 80%; 
+          
+        }
+        .imgWWWskinv{
+            max-width: 80%; 
+        }
+        .skin1{
+            font-size: 13px;
+            padding-left: 120px;
+        }
+        .skin2{ 
+            font-size: 13px;
+            padding-left: 85px;
+            padding-top: 200px;
+             }
+        .skin3{ 
+            font-size: 13px;
+            padding-left: 150px;
+            padding-top: 390px ;
+        }
+        .skin4_a{ 
+            
+        }
+        .skin5_a{display: inline;
+            padding-left: 100px;
+            color: blue;
+          
+        }
+     
+        .skin6_a{display: inline;
+            padding-left: 100px;
+            color: blue;
+           
+        }
+       
+        .sponsor{
+            font-size: 15px;
+        
+          padding-left:  180px;
+        }
+        .sponsor1{
+            font-size: 15px;
+          
+            left: 50px;
+          
+        }
+       
+/* поиск*/
+.search{
+    position: relative;
+    width: 25px;
+    height: 25px;
+    background: white;
+    border-radius: 25px;
+    transition: 0.5s;
+    box-shadow:0 0 0 3px #2573ef ;
+    overflow: hidden;
+     margin: 0 auto;
+     top:10px;
+}
+
+.search .icon{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 25px;
+    height: 25px;
+    background: white;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 995;
+    cursor: pointer;
+
+}
+.search .icon::before{
+    position: absolute;
+    content: '';
+    width: 10px;
+    height: 10px;
+    border: 3px solid #287dfc;
+    border-radius: 50%;
+    transform: translate(-2px, -2px);
+}
+
+.search .icon::after{
+    position: absolute;
+    content: '';
+    width: 3px;
+    height: 12px;
+    background: #287dfc;
+    transform: translate(8px, 8px) rotate(-45deg);
+}
+.search.active{
+    width: 180px;
+}
+
+.search .input{
+    position: relative;
+    width: 300px;
+    height: 60px;
+    left: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.search .input input {
+    position: absolute;
+    top: -28px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+    outline: 0;
+    font-size: 18px;
+    padding: 10px 0;
+}
+.clear{
+    position: absolute;
+    top: 50%;
+    right: 15px;
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: translateY(-50%);
+}
+.clear::before{
+    position: absolute;
+    content: '';
+    width: 1px;
+    height: 15px;
+    background: #999;
+    transform: rotate(45deg);
+
+}
+.clear::after{
+    position: absolute;
+    content: '';
+    width: 1px;
+    height: 15px;
+    background: #999;
+    transform: rotate(-45deg);
+    
+}
+         
+}
 
