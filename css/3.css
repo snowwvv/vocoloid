@@ -1,0 +1,154 @@
+body{
+    margin: 0;
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffunart.pro%2Fuploads%2Fposts%2F2020-04%2F1587646399_41-p-besshovnie-foni-dlya-saitov-116.jpg&f=1&nofb=1&ipt=67d89ffccab3974c13eb2cdd86e961b2494cdb8bd865ee8b316013b298b8868c&ipo=images);
+}
+img{
+    position: absolute;
+}
+    
+
+.imgRafis2{
+    max-width: 70%;
+    margin-top: 50px;
+   margin-left: 230px;
+    padding:10px;
+    padding-bottom: 50px;
+    
+    background-color:  #092037;
+    z-index: 1;
+   
+}
+.nazat{
+    font-size: 40px;
+    position: absolute;
+    margin-top: 815px;
+    margin-left: 250px;
+    z-index: 3;
+   
+}
+.g_disk{
+    max-width: 4%;
+    position: absolute;
+    margin-top: 802px;
+    margin-left: 700px;
+   
+    z-index: 3;
+    
+}
+.img1{
+    position: absolute;
+    z-index: 3;
+    max-width: 30%;
+    margin-top:900px;
+    margin-left: 30px;
+}
+.img2{
+    position: absolute;
+    z-index: 3;
+    max-width: 30%;
+    margin-top:900px;
+    margin-left: 660px;
+
+}
+.img3{
+    position: absolute;
+    z-index: 3;
+    max-width: 30%;
+    margin-top:900px;
+    margin-left: 1290px;
+}
+.img4{
+    position: absolute;
+    z-index: 3;
+    max-width: 30%;
+    margin-top:1250px;
+    margin-left: 30px;
+}
+.img5{
+    position: absolute;
+    z-index: 3;
+    max-width: 30%;
+    margin-top:1250px;
+    margin-left: 660px;
+}
+.img6{
+    position: absolute;
+    z-index: 3;
+    max-width: 30%;
+    margin-top:1250px;
+    margin-left: 1290px;
+}
+@media(max-width: 450px){
+    .imgRafis2{
+        max-width: 80%;
+        margin-top: 50px;
+       margin-left: 20px;
+        padding:10px;
+        padding-bottom: 50px;
+        
+        background-color:  #092037;
+        z-index: 1;
+       
+    }
+    .nazat{
+        font-size: 25px;
+        position: absolute;
+        margin-top:230px;
+        margin-left: 25px;
+        z-index: 3;
+       
+    }
+    .g_disk{
+        max-width: 20%;
+        position: absolute;
+        margin-top: 210px;
+        margin-left: 150px;
+       
+        z-index: 3;
+        
+    }
+    .img1{
+        position: absolute;
+        z-index: 3;
+        max-width: 40%;
+        margin-top: 300px;
+        margin-left: 30px;
+    }
+    .img2{
+        position: absolute;
+        z-index: 3;
+        max-width: 40%;
+        margin-top:300px;
+        margin-left: 180px;
+    
+    }
+    .img3{
+        position: absolute;
+        z-index: 3;
+        max-width:40%;
+        margin-top:500px;
+        margin-left: 30px;
+    }
+    .img4{
+        position: absolute;
+        z-index: 3;
+        max-width: 40%;
+        margin-top:400px;
+        margin-left: 30px;
+    }
+    .img5{
+        position: absolute;
+        z-index: 3;
+        max-width: 40%;
+        margin-top:400px;
+        margin-left: 180px;
+    }
+    .img6{
+        position: absolute;
+        z-index: 3;
+        max-width:40%;
+        margin-top:500px;
+        margin-left: 180px;
+    }
+
+}
